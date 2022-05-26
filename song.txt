@@ -10,3 +10,4 @@ some information
 one more extra line
 
 changes for feature branch
+one another line for difference
